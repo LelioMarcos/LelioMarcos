@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Lelio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LelioMarcos&show_icons=true&theme=merko)
+
 <!--
 **LelioMarcos/LelioMarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
