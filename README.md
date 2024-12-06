@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Lelio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LelioMarcos&show_icons=true&theme=merko)
-
 <a href="https://www.linkedin.com/in/l%C3%A9lio-marcos-r-6a3390230/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
